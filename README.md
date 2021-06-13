@@ -20,6 +20,8 @@ limitations under the License.
 
 # Median
 
+[![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
+
 > [Degenerate][degenerate-distribution] distribution [median][median].
 
 <!-- Section to include introductory text. Make sure to keep an empty line after the intro `section` element and another before the `/section` close. -->
@@ -29,6 +31,11 @@ limitations under the License.
 The [median][median] for a [degenerate][degenerate-distribution] random variable is
 
 <!-- <equation class="equation" label="eq:degenerate_median" align="center" raw="\operatorname{Median}\left( X \right) = \mu" alt="Median for a degenerate distribution."> -->
+
+<div class="equation" align="center" data-raw-text="\operatorname{Median}\left( X \right) = \mu" data-equation="eq:degenerate_median">
+    <img src="https://cdn.rawgit.com/stdlib-js/stdlib/9488a06f69a99a22b91882d8b44881fc807708eb/lib/node_modules/@stdlib/stats/base/dists/degenerate/median/docs/img/equation_degenerate_median.svg" alt="Median for a degenerate distribution.">
+    <br>
+</div>
 
 <!-- </equation> -->
 
@@ -148,6 +155,18 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
+
+[npm-image]: http://img.shields.io/npm/v/@stdlib/stats-base-dists-degenerate-median.svg
+[npm-url]: https://npmjs.org/package/@stdlib/stats-base-dists-degenerate-median
+
+[test-image]: https://github.com/stdlib-js/stats-base-dists-degenerate-median/actions/workflows/test.yml/badge.svg
+[test-url]: https://github.com/stdlib-js/stats-base-dists-degenerate-median/actions/workflows/test.yml
+
+[coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/stats-base-dists-degenerate-median/main.svg
+[coverage-url]: https://codecov.io/github/stdlib-js/stats-base-dists-degenerate-median?branch=main
+
+[dependencies-image]: https://img.shields.io/david/stdlib-js/stats-base-dists-degenerate-median
+[dependencies-url]: https://david-dm.org/stdlib-js/stats-base-dists-degenerate-median/main
 
 [stdlib]: https://github.com/stdlib-js/stdlib
 
