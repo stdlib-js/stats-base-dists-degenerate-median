@@ -69,6 +69,11 @@ where `μ` is the constant value of the distribution.
 ## Usage
 
 ```javascript
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-median@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/stats-base-dists-degenerate-median/tags). For example,
+
+```javascript
 import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-median@v0.1.0-deno/mod.js';
 ```
 
@@ -106,7 +111,7 @@ v = median( -0.5 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-median@v0.1.0-deno/mod.js';
+import median from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-degenerate-median@deno/mod.js';
 
 var mu;
 var v;
