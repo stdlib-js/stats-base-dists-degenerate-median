@@ -2,6 +2,50 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2025-01-18)
+
+<section class="features">
+
+### Features
+
+-   [`225b73b`](https://github.com/stdlib-js/stdlib/commit/225b73b28eeaf1d6ca02a79d4c72b26b936317cd) - add C implementation for `stats/base/dists/degenerate/median` [(#4579)](https://github.com/stdlib-js/stdlib/pull/4579)
+
+</section>
+
+<!-- /.features -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`225b73b`](https://github.com/stdlib-js/stdlib/commit/225b73b28eeaf1d6ca02a79d4c72b26b936317cd) - **feat:** add C implementation for `stats/base/dists/degenerate/median` [(#4579)](https://github.com/stdlib-js/stdlib/pull/4579) _(by Karan Anand)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Karan Anand
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.2.2">
 
 ## 0.2.2 (2024-07-26)
