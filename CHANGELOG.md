@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-30)
+## Unreleased (2026-01-07)
 
 <section class="features">
 
@@ -34,7 +34,10 @@ This release closes the following issue:
 
 <details>
 
--   [`776c7e4`](https://github.com/stdlib-js/stdlib/commit/776c7e4b2fb38b08d91da3b7a9a99e2cd83a372d) - **docs:** replace manual `for` loop in examples [(#7122)](https://github.com/stdlib-js/stdlib/pull/7122) _(by Harsh, Philipp Burckhardt)_
+-   [`75552e8`](https://github.com/stdlib-js/stdlib/commit/75552e80fb02f81854f91d7361586a661d6b377e) - **bench:** update random value generation [(#9589)](https://github.com/stdlib-js/stdlib/pull/9589) _(by Harsh Yadav)_
+-   [`fc438e0`](https://github.com/stdlib-js/stdlib/commit/fc438e0edbad0689d6923d6f3edb959b96597662) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`9c21fd2`](https://github.com/stdlib-js/stdlib/commit/9c21fd20ef8b8a6a88abb96d80ea6d8e4c5434eb) - **test:** use .strictEqual() instead of .equal() _(by Philipp Burckhardt)_
+-   [`776c7e4`](https://github.com/stdlib-js/stdlib/commit/776c7e4b2fb38b08d91da3b7a9a99e2cd83a372d) - **docs:** replace manual `for` loop in examples [(#7122)](https://github.com/stdlib-js/stdlib/pull/7122) _(by Harsh Yadav, Philipp Burckhardt)_
 -   [`a1e230f`](https://github.com/stdlib-js/stdlib/commit/a1e230f29297caa89880e9c194c615a0400fb7bc) - **chore:** clean up cppcheck-suppress comments _(by Karan Anand)_
 -   [`1fc3918`](https://github.com/stdlib-js/stdlib/commit/1fc3918810a556d2593f4ec8a0764dce88a519fc) - **bench:** refactor random number generation in `stats/base/dists/degenerate` [(#4862)](https://github.com/stdlib-js/stdlib/pull/4862) _(by Karan Anand)_
 -   [`225b73b`](https://github.com/stdlib-js/stdlib/commit/225b73b28eeaf1d6ca02a79d4c72b26b936317cd) - **feat:** add C implementation for `stats/base/dists/degenerate/median` [(#4579)](https://github.com/stdlib-js/stdlib/pull/4579) _(by Karan Anand)_
@@ -51,7 +54,7 @@ This release closes the following issue:
 
 A total of 3 people contributed to this release. Thank you to the following contributors:
 
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
 -   Philipp Burckhardt
 
